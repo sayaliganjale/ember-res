@@ -18,8 +18,8 @@ export default function Philosophy() {
           </Rv>
         </div>
         <div className="im">
-          <Art c="a1" p="-.06" />
-          <Art c="a2" className="sm" />
+          <Art c="a1" p="-.06" img="/images/dish-scallop.jpg" />
+          <Art c="a2" className="sm" img="/images/dish-ribeye.jpg" />
         </div>
       </div>
     </section>
